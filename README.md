@@ -4,4 +4,4 @@ Esse repositório é um complemento para meu post sobre pesquisas eleitorais e p
 
 Uma análise das pesquisas eleitorais utilizando Python.
 
-O objetivo dessa análise é visualizar que a margem de erro em pesquisas eleitorais não varia expressivamente com amostragens da população maiores que 1500 eleitores em comparação com os resultados reais de eleições.
+O objetivo dessa análise é visualizar que a margem de erro em pesquisas eleitorais não varia expressivamente com amostragens da população maiores que 2000 eleitores em comparação com os resultados reais de eleições.
